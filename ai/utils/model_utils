@@ -1,0 +1,7 @@
+import joblib
+
+def load_model():
+    return joblib.load("ai/model/investment_model.pkl")
+
+def load_scaler():
+    return joblib.load("ai/model/scaler.pkl")
