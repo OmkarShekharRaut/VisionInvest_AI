@@ -1,7 +1,0 @@
-flask
-psycopg2
-pandas
-numpy
-scikit-learn
-joblib
-dotenv
